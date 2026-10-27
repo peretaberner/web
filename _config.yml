@@ -11,12 +11,12 @@ photo: images/pere.jpg  # place your photo in images/
 # STEP 2: Your Links (optional -- leave blank to hide an icon)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
-  github: "https://github.com/"
-  researchgate: "https://www.researchgate.net/"
+  google_scholar: "https://scholar.google.es/citations?user=aGnMSkEAAAAJ&hl"
+  github: ""
+  researchgate: "https://www.researchgate.net/profile/Pere-Taberner"
   orcid: ""
   twitter: ""
-  linkedin: ""
+  linkedin: "https://www.linkedin.com/in/pere-antoni-taberner/"
   cv: ""  # e.g., "papers/cv.pdf"
 
 # ============================================================
